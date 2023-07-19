@@ -123,3 +123,15 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+
+## Xorg and XFCE
+lightdm
+xfce4
+xfce4-goodies
+mousepad
+thunar
+xorg-xinit
+
+## Archwin, and Kali Undercover
+archwin-keyring
+kali-undercover

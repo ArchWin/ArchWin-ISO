@@ -1,0 +1,10 @@
+NAME="ArchWin Linux"
+PRETTY_NAME="ArchWin Linux"
+ID=archwin
+BUILD_ID=rolling
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://archwin.github.io/"
+DOCUMENTATION_URL="https://archwin.github.io/"
+SUPPORT_URL="https://github.com/ArchWin/ArchWin-ISO/issues"
+BUG_REPORT_URL="https://github.com/ArchWin/ArchWin-ISO/issues"
+#LOGO=archlinux-logo
